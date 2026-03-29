@@ -262,6 +262,9 @@ foodbridge/
 ## 📽️ Demo Video
 
 Watch the 3-5 minute demo: `demo.mp4` 
+## 📽️ Demo Video
+
+<video src="demo.mp4" controls width="100%"></video>
 
 The demo covers:
 1. Registering as a Donor and posting a food listing with AI photo analysis
