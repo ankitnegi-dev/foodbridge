@@ -255,7 +255,25 @@ foodbridge/
 
 ## 🌐 Live Demo
 
-🔗 **[foodbridge.vercel.app](https://foodbridge-seven.vercel.app/)
+🔗 **[FoodBridge Web App](https://foodbridge-seven.vercel.app/)**
+
+---
+
+## 📱 Mobile App (Android)
+
+FoodBridge is available as an installable Android app (generated from the PWA):
+
+| File | Description |
+|---|---|
+| [FoodBridge.apk](https://github.com/ankitnegi-dev/foodbridge/raw/main/FoodBridge.apk) | Install directly on any Android device |
+
+**How to install the APK on Android:**
+1. Download `FoodBridge.apk` from the link above
+2. On your Android device, go to **Settings → Security → Allow unknown sources**
+3. Open the downloaded APK and tap **Install**
+4. Launch **FoodBridge** from your home screen
+
+> Alternatively, visit the live link on mobile and tap **Add to Home Screen** to install as a PWA.
 
 ---
 
@@ -277,11 +295,7 @@ Alternatively, the web app is fully installable as a PWA — visit the live link
 
 ## 📽️ Demo Video
 
-Watch the 3-5 minute demo: `demo.mp4` 
-## 📽️ Demo Video
 https://github.com/user-attachments/assets/8751e92d-845e-487c-aa5a-758e9726a9b7
-
-
 
 The demo covers:
 1. Registering as a Donor and posting a food listing with AI photo analysis
