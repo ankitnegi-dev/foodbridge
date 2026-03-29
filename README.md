@@ -255,7 +255,7 @@ foodbridge/
 
 ## 🌐 Live Demo
 
-🔗 **[foodbridge.vercel.app](https://foodbridge.vercel.app)** *(replace with your actual deployed URL)*
+🔗 **[foodbridge.vercel.app](https://foodbridge-seven.vercel.app/)
 
 ---
 
