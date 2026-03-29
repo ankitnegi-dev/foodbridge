@@ -259,6 +259,22 @@ foodbridge/
 
 ---
 
+🌐 Live Demo
+🔗 FoodBridge Web App
+
+📱 Mobile App (Android)
+FoodBridge is available as an installable Android app (generated from the PWA):
+FileDescriptionFoodBridge.apkInstall directly on any Android deviceFoodBridge.aabAndroid App Bundle (for Play Store submission)
+How to install the APK on Android:
+
+Download FoodBridge.apk from this repo
+On your Android device, go to Settings → Security → Allow unknown sources
+Open the downloaded APK and tap Install
+Launch FoodBridge from your home screen
+
+
+Alternatively, the web app is fully installable as a PWA — visit the live link on mobile and tap Add to Home Screen.
+
 ## 📽️ Demo Video
 
 Watch the 3-5 minute demo: `demo.mp4` 
