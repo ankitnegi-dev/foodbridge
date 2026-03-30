@@ -106,7 +106,7 @@ export default function Landing() {
       <footer className="max-w-4xl mx-auto px-4 py-8 flex flex-col md:flex-row items-center justify-between text-sm text-gray-400">
         <div className="font-bold text-gray-700 flex items-center gap-2">
           🍱 FoodBridge
-          <span className="font-normal text-gray-400">— Rescue Food. Feed Communities.</span>
+          <span className="font-normal text-gray-400">- Rescue Food. Feed Communities.</span>
         </div>
         <a href="https://github.com" target="_blank" rel="noreferrer" className="mt-4 md:mt-0 hover:text-gray-600">GitHub</a>
       </footer>
