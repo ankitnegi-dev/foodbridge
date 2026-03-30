@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.foodbridge_seven.twa",
+        "sha256_cert_fingerprints": ["73:DE:64:66:13:1D:B6:8A:23:03:D2:ED:96:47:16:8F:F2:69:9D:AB:FC:3D:37:83:80:9E:04:56:01:32:42:1E"]
+      }
+    }]

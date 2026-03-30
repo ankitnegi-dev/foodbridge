@@ -54,7 +54,7 @@ export default function Landing() {
           <span className="text-green-700">Feed Communities.</span>
         </h1>
         <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-8">
-          Connect surplus food with people who need it — in real time.
+          Connect surplus food with people who need it - in real time.
           India wastes 67 million tonnes of food annually. Let's change that.
         </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
